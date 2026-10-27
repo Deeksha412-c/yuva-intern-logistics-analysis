@@ -1,0 +1,8 @@
+orders: 79
+total_units: 449
+mean_delivery_days: 4.23
+median_delivery_days: 3.0
+mean_simulated_transport_cost: 240.15
+total_simulated_transport_cost: 18971.9
+proxy_within_4_days_pct: 58.23
+total_order_value: 2003050.0

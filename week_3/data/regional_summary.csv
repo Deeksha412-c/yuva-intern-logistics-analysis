@@ -1,0 +1,5 @@
+Region,Orders,Units,Mean_Delivery_Days,Mean_Simulated_Cost
+East,19,75.0,4.0,219.31
+North,21,81.0,4.24,232.96
+South,17,204.0,3.82,292.82
+West,22,89.0,4.73,224.32
