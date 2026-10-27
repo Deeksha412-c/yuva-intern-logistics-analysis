@@ -1,3 +1,4 @@
+
 # Week 1 — Strategic Planning and Data Exploration in Logistics
 
 ## Scenario
@@ -46,3 +47,4 @@ The default run uses clearly labeled synthetic observations. With a real Excel f
 - https://archive.ics.uci.edu/dataset/352/online+retail
 - https://pandas.pydata.org/docs/
 - https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.TimeSeriesSplit.html
+
