@@ -1,0 +1,8 @@
+{
+  "records": 79,
+  "train_records": 63,
+  "test_records": 16,
+  "chosen_by_cv": "Random forest",
+  "scenario_review_slots": 5,
+  "notes": "Synthetic demonstration; capacity allocation is illustrative, not proven to reduce cost or delivery time."
+}

@@ -1,0 +1,4 @@
+model,cv_mae_mean,cv_mae_std,test_mae,test_rmse,test_r2
+Mean baseline,2.46,0.151,2.5,2.75,-0.0
+Ridge regression,2.734,0.621,2.476,2.792,-0.031
+Random forest,2.409,0.178,2.588,3.056,-0.235
